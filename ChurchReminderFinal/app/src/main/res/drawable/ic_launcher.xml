@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#1A2B4A"
+        android:pathData="M0,0h108v108H0z" />
+
+    <!-- Cross vertical -->
+    <path
+        android:fillColor="#C9A84C"
+        android:pathData="M48,18 L60,18 L60,90 L48,90 Z" />
+
+    <!-- Cross horizontal -->
+    <path
+        android:fillColor="#C9A84C"
+        android:pathData="M28,38 L80,38 L80,50 L28,50 Z" />
+
+    <!-- Bell body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,62 C46,62 40,68 40,76 L68,76 C68,68 62,62 54,62 Z" />
+
+    <!-- Bell top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,59 C51,57.3 52.3,56 54,56 C55.7,56 57,57.3 57,59 L57,62 L51,62 Z" />
+
+    <!-- Bell clapper -->
+    <path
+        android:fillColor="#C9A84C"
+        android:pathData="M51,76 L57,76 C57,77.7 55.7,79 54,79 C52.3,79 51,77.7 51,76 Z" />
+
+</vector>

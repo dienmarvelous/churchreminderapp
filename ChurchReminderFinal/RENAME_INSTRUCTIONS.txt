@@ -1,0 +1,14 @@
+IMPORTANT - Before uploading to GitHub:
+
+1. Rename the folder:
+   github_workflows  →  .github
+   (add a dot at the front)
+
+2. Rename the file:
+   gitignore.txt  →  .gitignore
+   (add a dot at the front, remove .txt)
+
+These files need a dot at the start for GitHub to recognise them.
+If your phone file manager cannot rename to start with a dot,
+just skip .gitignore (not critical).
+For .github folder, GitHub's website upload will accept it with the dot name.

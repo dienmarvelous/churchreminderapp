@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ChurchReminder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1A2B4A</item>
+        <item name="colorPrimaryDark">#0D1B30</item>
+        <item name="colorAccent">#C9A84C</item>
+        <item name="android:windowBackground">#F7F5F0</item>
+        <item name="android:statusBarColor">#1A2B4A</item>
+        <item name="android:navigationBarColor">#1A2B4A</item>
+    </style>
+</resources>
